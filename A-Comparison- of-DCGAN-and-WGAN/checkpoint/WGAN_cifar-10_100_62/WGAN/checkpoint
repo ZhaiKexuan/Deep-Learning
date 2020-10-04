@@ -1,0 +1,6 @@
+model_checkpoint_path: "WGAN.model-60001"
+all_model_checkpoint_paths: "WGAN.model-48601"
+all_model_checkpoint_paths: "WGAN.model-51601"
+all_model_checkpoint_paths: "WGAN.model-54601"
+all_model_checkpoint_paths: "WGAN.model-57601"
+all_model_checkpoint_paths: "WGAN.model-60001"
